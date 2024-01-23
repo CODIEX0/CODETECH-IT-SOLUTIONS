@@ -1,2 +1,2 @@
-# CODETECH-IT-SOLUTIONS
+# CODTECH IT SOLUTIONS
 Internship project
